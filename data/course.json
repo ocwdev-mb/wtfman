@@ -1,0 +1,26 @@
+{
+  "term": "Spring",
+  "year": "2030",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "wtfman"
+  },
+  "course_image": {
+    "content": "",
+    "website": "wtfman"
+  },
+  "course_title": "wtfman",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "1111",
+  "learning_resource_types": [],
+  "site_uid": "afb05754-1ce0-4d6e-8491-d80e3df44916",
+  "site_short_id": "wtfman"
+}
